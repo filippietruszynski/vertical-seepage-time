@@ -3,7 +3,7 @@
 
 '''----------------------------------------------------------------------------
  Nazwa narzędzia: Czas Infiltracji 
- Nazwa źródła:    CzasInfiltracji.py
+ Nazwa źródła:    czas _infiltracji.py
  Wersja:          ArcGIS 10.3.1
  Autor:           Filip Pietruszyński - f.pietruszynski@gmail.com
  Opis:            Narzędzie służące do obliczania czasu infiltracji
