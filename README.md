@@ -2,7 +2,7 @@
 
 # Czas Infiltracji
 
-An ArcGIS script tool which generates raster files illustrating spatial distribution of vertical seepage time through a vadose zone.
+ArcGIS script tool which generates raster files illustrating spatial distribution of vertical seepage time through a vadose zone.
 
 The tool performs calculations based on spatial data entered by the user. There are three calculation methods available: the Witczak i Żurek formula, the Bindeman formula and the Macioszczyk formula. User can also choose the annual rainfall interpolation method: Spline, IDW or Natural Neighbor.
 
