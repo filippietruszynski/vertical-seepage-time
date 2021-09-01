@@ -5,7 +5,7 @@
  Nazwa narzędzia: Czas Infiltracji 
  Nazwa źródła:    czas_infiltracji.py
  Wersja:          ArcGIS 10.3.1
- Autor:           Filip Pietruszyński - f.pietruszynski@gmail.com
+ Autor:           Filip Pietruszyński - filippietruszynski@pm.me
  Opis:            Narzędzie służące do obliczania czasu infiltracji
                   przez strefę aeracji na dowolnym obszarze za pomocą
                   wzoru Witczaka i Żurek, Bindemana lub Macioszczyka
